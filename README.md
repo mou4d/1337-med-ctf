@@ -1,6 +1,6 @@
 # 1337-med-ctf
 ## web
-###bahlawan_l7afalat 
+### bahlawan_l7afalat 
 The challenge involved making a [POST request](https://en.wikipedia.org/wiki/POST_(HTTP)) with an exposed username on a website that reveals its backend code and a hidden password.
 The objective was to **bypass the password check** and receive the **flag** in the server response.
 
