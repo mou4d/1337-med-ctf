@@ -33,7 +33,7 @@ hashcat -a 0 -m 16500 <jwt> <wordlist>
 
 and from here everything needs to be good we got the secret signed our token copy past it to the cookies or whatever method you prefer for the cookies injection and it's done
 
-More details about a commun JWT attacks : https://portswigger.net/web-security/jwt
+More details about **JWT** and commun **JWT attacks** : https://portswigger.net/web-security/jwt
 
 ### bahlawan_l7afalat 
 
